@@ -1,5 +1,12 @@
 # 💫 About Me:
 I’m a backend engineer passionate about building distributed systems, designing clean APIs, and automating everything that can be automated.  <br>Currently focused on crafting resilient microservices using **Java**, **Spring Boot**, and **Kafka**, with a growing interest in **system design**, **DevOps**, and **AI-assisted development**.<br><br>- 🧩 Experienced in: microservice architecture, asynchronous communication, and test automation (Playwright + Cucumber).  <br>- ⚙️ I enjoy working on system scalability, API design, and backend observability.  <br>- 🌱 Currently exploring: **Spring AI**, **Micro Frontends**, and **Reactive programming**.  <br>- 💬 Let’s talk about: clean architecture, event-driven systems, or test automation frameworks.  <br>- 🎯 Goal: To engineer systems that scale effortlessly and deliver measurable impact.<br><br>
+### 🧩 Featured Projects
+🔹 **Microservice Payment System** – Built using Spring Boot, Kafka, and PostgreSQL; demonstrates distributed transaction handling.  
+🔹 **Playwright + Cucumber Test Framework** – A complete E2E automation framework with HTML reporting & HyperExecute integration.  
+🔹 **AI-Powered Scenario Generator** – Generates Playwright test cases from app URLs using Python + GenAI.  
+
+*(Check pinned repositories for more →)*  
+
 
 
 ## 🌐 Socials:
